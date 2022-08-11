@@ -53,9 +53,4 @@ Here are some ideas to get you started:
   <img alt="so-ubuntu" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </div><br>
 
-<div align="center">
-<h2>Visits after new layout:</h2>
-<img src="https://profile-counter.glitch.me/PedroIeremis/count.svg" width="250px"/>
-</div><br>
-
   ![Snake animation](https://github.com/PedroIeremis/PedroIeremis/blob/output/github-contribution-grid-snake.svg)
