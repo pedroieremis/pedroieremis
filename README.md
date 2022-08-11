@@ -57,3 +57,5 @@ Here are some ideas to get you started:
 <h2>Visits after new layout:</h2>
 <img src="https://profile-counter.glitch.me/NOMEUSARIO/count.svg" width="250px"/>
 </div><br>
+
+  ![Snake animation](https://github.com/PedroIeremis/PedroIeremis/blob/output/github-contribution-grid-snake.svg)
