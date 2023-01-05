@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
-<p>I am 19 years old and, i am currently studying Compute Networks at IFRN-Central.
+<p>I'm 20 years old and I'm currently studying Computer Networks at IFRN-Central and working as a Network and Infrastructure Analyst at GCTI.
+
 </div>
 
 <div align="center">
