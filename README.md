@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello, I`m Pedro Iéremis 👋
+### Olá, eu sou Pedro Iéremis! 👋
 
 <div align="center">
 <img src="https://c.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="150px"/>
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
-<p>I'm 20 years old and I'm currently studying Computer Networks at IFRN-Central and working as a Network and Infrastructure Analyst at GCTI.
+<p>Tenho 20 anos de idade. Resido em Natal/RN. Sou Graduando em Redes de Computadores pelo IFRN Central. Atualmente trabalho no GCTI, em Parnamirim/RN, na função de Analista de Redes e Infraestrutura, porém estou migrando aos poucos para Analista de Sistemas/DevOps.
 </div>
 
 <div align="center">
@@ -30,8 +30,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroIeremis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
-<p align="center">Some Skills
 <div align="center" style="display: inline_block">
+  <h4>Alguns Conhecimentos</h4>
   <img align="center" alt="linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   <img align="center" alt="windows" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
   <img align="center" alt="bash" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 </div><br>
 
 <div align="center">
-<h2>Visits after new layout:</h2>
+<h2>Visitas ao Perfil</h2>
 <img src="https://profile-counter.glitch.me/PedroIeremis/count.svg" width="250px"/>
 </div><br>
 
