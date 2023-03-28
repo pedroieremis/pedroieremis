@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
-<p>Tenho 20 anos de idade. Resido em Natal/RN. Sou Graduando em Redes de Computadores pelo IFRN Central. Atualmente trabalho no GCTI, em Parnamirim/RN, na função de Analista de Redes e Infraestrutura, porém estou migrando aos poucos para Analista de Sistemas/DevOps.
+<p>Tenho 20 anos de idade. Resido em Natal/RN. Sou Graduando em Redes de Computadores pelo IFRN Central. Atualmente trabalho no GCTI, em Parnamirim/RN, na função de Administrador de Redes, porém estou migrando aos poucos para DevOps. Isso pode ser melhor visto diante do meu <a href=“https://www.linkedin.com/in/pedro-i%C3%A9remis-brito-de-medeiros-1b553a240/“>Linkedin</a>.
 </div>
 
 <div align="center">
