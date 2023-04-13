@@ -41,6 +41,7 @@ Tenho 20 anos de idade. Resido em Natal/RN. Sou Graduando em Redes de Computador
 <div align="center" style="display: inline_block">
   <h4>Alguns Conhecimentos</h4>
   <img align="center" alt="linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img align="center" alt="linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"/>
   <img align="center" alt="windows" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
   <img align="center" alt="bash" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
   <img align="center" alt="vagrant" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg"/>
