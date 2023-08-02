@@ -39,14 +39,17 @@ Tenho 20 anos de idade. Resido em Natal/RN. Sou Graduando em Redes de Computador
 </div>
 
 <div align="center" style="display: inline_block">
-  <h4>Alguns Conhecimentos</h4>
+  <h4>Algumas tecnologias conhecidas e em aprendizado</h4>
   <img align="center" alt="linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   <img align="center" alt="linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"/>
   <img align="center" alt="windows" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
   <img align="center" alt="bash" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
   <img align="center" alt="vagrant" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg"/>
   <img align="center" alt="python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="ansible" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg"/>
   <img align="center" alt="docker" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
+  <img align="center" alt="k3s" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k3s/k3s-original.svg"/>
+  <img align="center" alt="rancher" height="50" src="https://www.vectorlogo.zone/logos/rancher/rancher-icon.svg"/>
   <img align="center" alt="VsCode" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   <img align="center" alt="git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" alt="putty" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg"/>
