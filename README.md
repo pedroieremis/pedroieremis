@@ -71,4 +71,4 @@ Tenho 20 anos de idade. Resido em Natal/RN. Sou Graduando em Redes de Computador
 
 </div><br>
 
-  ![Snake animation](https://github.com/pedroieremis/pedroieremis/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/pedroieremis/pedroieremis/blob/output/github-contribution-grid-snake.svg)
