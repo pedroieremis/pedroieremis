@@ -33,8 +33,8 @@ Tenho 20 anos de idade. Resido em Natal/RN. Sou Graduando em Redes de Computador
 
 <div align="center">
 
-  <a href="https://github.com/PedroIeremis"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroIeremis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/pedroieremis"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroieremis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 </div>
 
