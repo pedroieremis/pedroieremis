@@ -67,8 +67,8 @@ Tenho 20 anos de idade. Resido em Natal/RN. Sou Graduando em Redes de Computador
 <div align="center">
 
 <h2>Visitas ao Perfil</h2>
-<img src="https://profile-counter.glitch.me/PedroIeremis/count.svg" width="250px"/>
+<img src="https://profile-counter.glitch.me/pedroieremis/count.svg" width="250px"/>
 
 </div><br>
 
-  ![Snake animation](https://github.com/PedroIeremis/PedroIeremis/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/pedroieremis/pedroieremis/blob/output/github-contribution-grid-snake.svg)
