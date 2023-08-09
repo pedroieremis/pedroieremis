@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 ---
 
-<div align="center">
+<div align="justify">
 <p>
   
-Tenho 20 anos de idade. Resido em Natal/RN. Sou Graduando em Redes de Computadores pelo IFRN Central. Atualmente trabalho no GCTI, em Parnamirim/RN, na função de Administrador de Redes, porém estou migrando aos poucos para DevOps. Isso pode ser melhor visto em meu Linkedin.
+Tenho 20 anos de idade. Resido em Natal/RN. Sou Graduando em Redes de Computadores no <a href="https://portal.ifrn.edu.br/campus/natalcentral/" target="_blank">IFRN-CNAT</a>. Atualmente trabalho no Grupo de Ciência e Tecnologia da Informação e Inovação - <a href="https://gcti.parnamirim.rn.gov.br/" target="_blank">GCTI</a>, como Administrador de Redes & DevOps.  Minhas experiências podem ser melhor vistas em meu <a href="https://gcti.parnamirim.rn.gov.br/" target="_blank">Linkedin</a>.
 
 <p>
 </div>
@@ -34,16 +34,17 @@ Tenho 20 anos de idade. Resido em Natal/RN. Sou Graduando em Redes de Computador
 <div align="center">
 
   <a href="https://github.com/pedroieremis"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroieremis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pedroieremis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 </div>
 
 <div align="center" style="display: inline_block">
-  <h4>Algumas tecnologias conhecidas e em aprendizado</h4>
+  <h4>Tecnologias, ferramentas e linguagens de programação conhecidas e em aprendizado</h4>
   <img align="center" alt="linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   <img align="center" alt="linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"/>
   <img align="center" alt="windows" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
   <img align="center" alt="bash" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+  <img align="center" alt="virtuabox" height="50" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg"/>
   <img align="center" alt="vagrant" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg"/>
   <img align="center" alt="python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ansible" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg"/>
@@ -60,15 +61,15 @@ Tenho 20 anos de idade. Resido em Natal/RN. Sou Graduando em Redes de Computador
 <div align="center">
 
   <a href="https://www.instagram.com/pedro_ieremis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-i%C3%A9remis-brito-de-medeiros-1b553a240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-i%C3%A9remis-brito-de-medeiros-1b553a240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
+  <a href="https://portal.pedroieremis.eti.br/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a>
 
-</div><br>
+</div>
 
 <div align="center">
 
-<h2>Visitas ao Perfil</h2>
-<img src="https://profile-counter.glitch.me/pedroieremis/count.svg" width="250px"/>
+### ***Visitas ao Perfil***
+<img src="https://profile-counter.glitch.me/pedroieremis/count.svg"/>
+<!---</div><br>
 
-</div><br>
-
-![snake gif](https://github.com/pedroieremis/pedroieremis/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/pedroieremis/pedroieremis/blob/output/github-contribution-grid-snake.svg)--->
