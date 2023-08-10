@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <div align="justify">
 <p>
   
-Tenho 20 anos de idade. Resido em Natal/RN. Sou Graduando em Redes de Computadores no <a href="https://portal.ifrn.edu.br/campus/natalcentral/" target="_blank">IFRN-CNAT</a>. Atualmente trabalho no Grupo de Ciência e Tecnologia da Informação e Inovação - <a href="https://gcti.parnamirim.rn.gov.br/" target="_blank">GCTI</a>, como Administrador de Redes & DevOps.  Minhas experiências podem ser melhor vistas em meu <a href="https://gcti.parnamirim.rn.gov.br/" target="_blank">Linkedin</a>.
+Tenho 20 anos de idade. Resido em Natal/RN. Sou Graduando em Redes de Computadores no <a href="https://portal.ifrn.edu.br/campus/natalcentral/" target="_blank">IFRN-CNAT</a>. Atualmente trabalho no Grupo de Ciência e Tecnologia da Informação e Inovação - <a href="https://gcti.parnamirim.rn.gov.br/" target="_blank">GCTI</a>, como Administrador de Redes & DevOps.  Minhas experiências podem ser melhor vistas em meu <a href="https://br.linkedin.com/in/pedro-i%C3%A9remis-brito-de-medeiros-1b553a240" target="_blank">Linkedin</a>.
 
 <p>
 </div>
