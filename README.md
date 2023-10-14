@@ -50,6 +50,8 @@ Tenho 20 anos de idade. Resido em Natal/RN. Sou Graduando em Redes de Computador
   <img align="center" alt="ansible" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg"/>
   <img align="center" alt="docker" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
   <img align="center" alt="k3s" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k3s/k3s-original.svg"/>
+  <img align="center" alt="gitla-runner" height="50" src="./Imgs/gitla-runner.svg"/>
+  <img align="center" alt="argocd" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg"/>
   <img align="center" alt="rancher" height="50" src="https://www.vectorlogo.zone/logos/rancher/rancher-icon.svg"/>
   <img align="center" alt="VsCode" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   <img align="center" alt="git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
