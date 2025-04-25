@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <div align="justify">
 <p>
   
-Tenho 21 anos de idade. Resido em Natal/RN. Sou graduado em Redes de Computadores pelo <a href="https://portal.ifrn.edu.br/cursos/superiores/graduacao/tecnologia-em-redes-de-computadores/" target="_blank">IFRN Natal Central</a>. Atualmente trabalho no Grupo de Ciência e Tecnologia da Informação e Inovação - <a href="https://gcti.parnamirim.rn.gov.br/" target="_blank">GCTI</a>, atuando como DevOps & SysAdmin.  Minhas experiências podem ser melhor vistas em meu <a href="https://br.linkedin.com/in/pedro-i%C3%A9remis-brito-de-medeiros-1b553a240" target="_blank">Linkedin</a> ou no meu Site Profile, com link no meu perfil ou <a href="https://pedroieremis.eti.br/" target="_blank">aqui</a>.
+Tenho 22 anos de idade. Resido em Natal/RN. Sou graduado em Redes de Computadores pelo <a href="https://portal.ifrn.edu.br/cursos/superiores/graduacao/tecnologia-em-redes-de-computadores/" target="_blank">IFRN Natal Central</a>. Atualmente trabalho no Grupo de Ciência e Tecnologia da Informação e Inovação - <a href="https://gcti.parnamirim.rn.gov.br/" target="_blank">GCTI</a>, atuando como DevOps & SysAdmin.  Minhas experiências podem ser melhor vistas em meu <a href="https://br.linkedin.com/in/pedro-i%C3%A9remis-brito-de-medeiros-1b553a240" target="_blank">Linkedin</a> ou no meu Site Profile, com link no meu perfil ou <a href="https://pedroieremis.eti.br/" target="_blank">aqui</a>.
 
 <p>
 </div>
